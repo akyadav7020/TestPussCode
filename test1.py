@@ -1,6 +1,4 @@
-fdsg
-fjdsjdf
-dfsdjf
-sjdfwuejds
-sdfjfl
-sfjjsfj
+def sum(a,b):
+    print(a+b)
+
+sum(3,2)
