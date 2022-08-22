@@ -1,6 +1,2 @@
-sfsdfgsdj
-jsdfgsj
-erjwe
-erwe
-erjhw
-ewkrwl
+def myfac():
+    return "Abhay Kumar Yadav"
